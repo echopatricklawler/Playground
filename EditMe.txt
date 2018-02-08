@@ -2,3 +2,5 @@ This is just
 a document
 with nothing 
 important in it.
+
+Removing the change and making additional changes.

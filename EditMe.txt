@@ -2,17 +2,3 @@ This is just
 a document
 with nothing 
 important in it.
-
-Removing the change and making additional changes.
-
-Making an another change
-
-This is a local change.
-Make a remote repo change.
-
-
-And we make another local change.222
-
-Now if we make another remote change.111
-
-trying merge test again!@#!#

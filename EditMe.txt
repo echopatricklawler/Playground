@@ -6,3 +6,5 @@ important in it.
 Removing the change and making additional changes.
 
 Making an another change
+
+This is a local change.
